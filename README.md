@@ -1,2 +1,3 @@
-# newport-vice
-Carus Wilson and Newport in the 1850s
+# Hambrough Ardlamont Affair
+
+The Hambroughs of Ventnor and the death of Cecil Dudle Hambrough on the Ardlamont Estate in Scotland.
