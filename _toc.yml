@@ -1,0 +1,7 @@
+format: jb-book
+root: preface
+parts:
+- caption: Ardlamont Affair
+  chapters:
+- file: henry-card-tragic-accident.md
+
